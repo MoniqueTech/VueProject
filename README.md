@@ -50,13 +50,13 @@ Added NavBar with <router-link>s for switching between pages
 ## Screenshots
 
 ### Home Page
-![Home Screenshot](./public/screenshots/HomePage.png)
+![Home Screenshot](./public/Screenshots/HomePage.png)
 
 ### About Page
-![Home Screenshot](./public/screenshots/AboutPage.png)
+![Home Screenshot](./public/Screenshots/AboutPage.png)
 
 ### Contact Page
-![Contact Screenshot](./public/screenshots/ContactPage.png)
+![Contact Screenshot](./public/Screenshots/ContactPage.png)
 
 
 ## Pages & Components
